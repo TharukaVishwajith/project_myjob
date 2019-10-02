@@ -1,0 +1,3 @@
+Migrations for 'jobs':
+  jobs\migrations\0001_initial.py
+    - Create model Job
